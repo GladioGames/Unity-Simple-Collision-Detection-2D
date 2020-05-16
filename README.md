@@ -1,7 +1,5 @@
 # Unity - Simple Collision Detection 2D
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 Simple Collision Detection 2D is a simple project made in Unity.
 It contains different colliders 2D and rigidbody 2D at the same time.
 The goal is to explain with an example how the collision detection 2D works in Unity simulating a simple game.
