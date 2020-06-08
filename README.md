@@ -6,6 +6,10 @@ Simple Collision Detection 2D is a simple project made in Unity.
 It contains different colliders 2D and rigidbody 2D at the same time.
 The goal is to explain with an example how the collision detection 2D works in Unity simulating a simple game.
 
+![](https://media.giphy.com/media/ehJ36Fj4hQffhPidlb/giphy-downsized.gif)
+
+If you are curious about why the preview contains those effects please check the link at the full article suggested before!
+
 ### Installation
 
 Simple Collision Detection 2D is made with [Unity](https://unity.com/) v2019.3.13f1.
