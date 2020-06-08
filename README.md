@@ -1,8 +1,12 @@
 # Unity - Simple Collision Detection 2D
 
+From [Unity Collision Detection 2D Everything You Need To Know + Examples](https://gamedevelopertips.com/unity-collision-detection-2d/).
+
 Simple Collision Detection 2D is a simple project made in Unity.
 It contains different colliders 2D and rigidbody 2D at the same time.
 The goal is to explain with an example how the collision detection 2D works in Unity simulating a simple game.
+
+![](https://media.giphy.com/media/ehJ36Fj4hQffhPidlb/giphy.gif)
 
 ### Installation
 
